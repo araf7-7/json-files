@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "name": "Spaghetti Bolognese",
+        "description": "Classic Italian pasta dish with savory meat sauce.",
+        "ingredients": 6,
+        "stock": {
+            "id-1": "500g ground beef",
+            "id-2": "1 onion, chopped",
+            "id-3": "cloves garlic, minced"
+        },
+        "cal": 600,
+        "time": "30 Minutes",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/a9c04ca9fa51408faf2fac8e0117abb9_9366/Steel_Metal_Bottle_1L_Black_EX7288_01_standard.jpg"
+    }
+]
